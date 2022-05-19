@@ -414,6 +414,8 @@ footer > ul li a:focus img {
 
   footer > ul {
     justify-self: flex-end;
+    align-items: center;
+    margin: 0;
   }
 }
 
