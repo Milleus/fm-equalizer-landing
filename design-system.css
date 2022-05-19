@@ -26,7 +26,6 @@
 }
 
 .colors-layout .color-box {
-  border-radius: 12px;
   height: 6.25rem;
   padding: 1.5rem;
 }
@@ -63,12 +62,11 @@
 .buttons-layout {
   --grid-gap: 1.875rem;
   grid-template-columns: repeat(2, 1fr);
-  border-radius: 12px;
   padding: 4.5rem 6.9375rem;
   margin-top: 3rem;
 }
 
-.buttons-layout a {
+.buttons-layout button {
   margin-inline: auto;
 }
 
